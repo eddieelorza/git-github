@@ -1,2 +1,2 @@
-# git-guthub
+# git-github
 Eddie eloza
