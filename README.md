@@ -1,5 +1,4 @@
-# git-github
-Eddie eloza
+
 Hi There!👋 My name is Eddie Elorza
 =============================
 
